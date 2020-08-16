@@ -3,3 +3,6 @@ env: flex
 handlers:
   - url: /.*
     script: this field is required, but ignored
+    
+beta_settings:
+  cloud_sql_instances: batimac-employee
