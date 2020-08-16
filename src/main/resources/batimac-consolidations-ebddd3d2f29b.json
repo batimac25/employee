@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "batimac-consolidations",
+  "private_key_id": "ebddd3d2f29b467142b21d34a7f6c78223c776ea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCl6gaJoKX9H96X\nMi4ejSoT4snIRvW0PBsHfKGScxQmJnnqLnEAyD/uYvft7MOmY64K/GLu5H9oMAGM\nRx3dww6qcANL1S0lM5YTYcejTkBobTwzwpqx1JYUpLAo5XY0CLF6oSJTEnaKqfJ4\nHjQc6J5ALeBlOMInc88+/JNN7hh0yuzMzUkPylSd9db41fXljDjBFy5PXmodhnLl\npx2HQvg6+POExvFDPPBb4SpS5nUIhQg0AfX3e59v8cLzOc9qaDXW5kgbEwpma9aa\nmDt/BH/pUh1UgNO9z1qwSQ/5OiyiwAe+qkW1JA1GTmuj1N9NXAARNkGed/KuB4Q0\nepRcWqwhAgMBAAECggEACHUEZLGJ169vL8yaaZ5Cd2vUMBKsS/kGwhWKDgzMCYgx\nwLK7U3hICF7tFyikoTxr6ICmJMBq9vGZ5cxrBLaaCCzYTisNaqiiTSMEnRnMOKzd\nju0STsXXHJhEdOE1aqbJMGBt5a26pljOIW23Gre7Kuq4iUOHMG5u/ipVWKyUfI3i\nVHLRsLXNYSEexoFCtdMoSYiRWKOWF6HE/crCrNNIOUWrAZqF831/5eQUYVl4oJm/\nOclsNLQlcaRyZyE1j5woQa0cxtwbaozvD5lZ4GdTwMKscQti7cJimK065ddjJlaK\nnRC/vmef0YkbCM5Z6PO1JwqN7jidJ00rrv+HlId/fQKBgQDlIlBmoOpgO4rY7c3z\nYPuBeiBtw3MCjjWd1aEu+szAI/tJ81ptUwrXpCE0yFSMMIjEgO/Nrz7QlVC5nGdm\n/R9jsy6Qg9UOGw6uJWk2eDHCvaqoDYUS4sUOkVAH7TJYvzOKeTR5MAAH7nviDUK6\nvqggABrryG61XybIhps4V04KcwKBgQC5XhqhZHnvGh1ixHrxWHM/6CJRy85R5ucH\n8ybNXiH+6OmAfMDz+X66+yhrck3Uo0OPzRORZcaJaP2i4fiYRmg8OkPzjO+tGPVl\naq8dDADYOwZQcD2NbHsWz3TXcN99IXn+bY6wRtcv2MVUB0yNG4Wgfv1/ILYkAqog\nKaYlnwOmGwKBgHI8k103aOKljOnuVbm7Zmj9HGHdCeACSpTwRzYG8EHzLnuGClVr\nC4LLX4rTPePO5sEhj206q9SOPPrtEVh1ZkrssJB4SaaIst774+K2NgjjSswSQYBS\n8u/6Xq41Ad7hJK8rEpBA8CMEMVtYRSaZm3So2MMo4JkoYUukYIrMbColAoGBALID\nfj2JuVN2V8wW9h46HAu+SN8Wgx/CSBIpXxUQFkOvtzYuGDr0WdEFC48L6VSQKXy6\nq9UQ0TX6vsEik1LhIo7cQY9txGoOMvPfHSYe9dyx6mFrOKFNEXQZbJLNEcMgWACP\ng90jWtnXKcGFdO16BbzY12azqlcwu+JBPQ6aA64LAoGAIsU2WahQiee+q9zEf9v7\nTreL0UxklDNnCCNenJJmzuzTHQTCIxH24OZqmffoS3qN79wVsq/FwYA5VmNwVG8P\n+CPo4dyme9uee/vIHW4UeiN5m7XfObkQh+vpmx6DDrFCXbmCVX0QmhDjlWCEzUQ6\nztXBRcI64LOFOYay2uROwjM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "batimacmachine@batimac-consolidations.iam.gserviceaccount.com",
+  "client_id": "100066814765498946938",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/batimacmachine%40batimac-consolidations.iam.gserviceaccount.com"
+}
